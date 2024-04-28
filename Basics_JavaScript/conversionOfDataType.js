@@ -62,5 +62,21 @@ console.log("The value of the valueInBoolean5 is: " + valueInBoolean5);//it retu
 // "akash"=>true  if its not an empty string then true is returned when converted to boolean
 // " "=>false     if its an empty string which is converted to boolean
 
+         //***************************Operations************************************
+
+
+     let x=3;
+     let y=-x;
+     console.log("\n" + y);
+
+     let value1=(2**3);// for exponential power we use ** here it means 2 raised to the power 3
+     console.log(value1);
+
+     //Conversion example:::
+
+     console.log("1" + 2);
+     console.log(1+ "2");
+     console.log("1" + 2 + "2");
+     console.log(1+2+ "2");
 
 
